@@ -2,7 +2,7 @@
 Contributors: Devaldi
 Tags: flipbook, pdf viewer, viewer, web pdf viewer, flip book
 Requires at least: 3.0
-Tested up to: 6.6
+Tested up to: 6.94
 Stable tag: 4.3
 License: GPLv3
 Donate link: https://flowpaper.com/download/
@@ -215,6 +215,9 @@ Fix for set_magic_quotes_runtime which was being set (depricated in PHP 5.3 and 
 * Minor textual changes and minor link adjustments
 
 = 2.0.6 =
+* Adjusting compatible Wordpress version
+
+= 2.0.7 =
 * Adjusting compatible Wordpress version
 
 == Installation ==

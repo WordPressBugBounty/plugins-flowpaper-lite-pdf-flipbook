@@ -3,13 +3,13 @@
 Plugin Name: FlowPaper
 Plugin URI: https://wordpress.org/plugins/flowpaper-lite-pdf-flipbook
 Description: Shortcode for adding a PDF flipbook to a post: [flipbook pdf="http://yourwebsite.com/yourdocument.pdf"]. Replace the URL with a URL to a PDF document you want to publish.
-Version: 2.0.6
+Version: 2.0.7
 Author: Devaldi Ltd
 Author URI: https://flowpaper.com
 License: GPLv3
 */
 
-define('FLOWPAPER_PLUGIN_VERSION', '2.0.6');
+define('FLOWPAPER_PLUGIN_VERSION', '2.0.7');
 
 function flowpaper_plugin_parse_request($wp) {
     try {
